@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 ---
 
 ![EB28E3AB-8148-4637-B590-4D535B21BE4A.jpeg](/uploads/EB28E3AB-8148-4637-B590-4D535B21BE4A.jpeg)

@@ -36,4 +36,6 @@ gem "webrick", "~> 1.8"
 
 
 gem "alembic-jekyll-theme", "~> 4.1.0"
+
+gem "jekyll-remote-theme"
 #gem "minimal-mistakes-jekyll"

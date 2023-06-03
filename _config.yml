@@ -19,3 +19,5 @@ instagram_username: sari
 theme: alembic-jekyll-theme
 plugins:
 - jekyll-feed
+- jekyll-remote-theme
+remote_theme: daviddarnes/alembic@main
