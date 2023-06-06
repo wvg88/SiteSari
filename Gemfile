@@ -34,7 +34,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
+gem "jekyll-remote-theme"
 
-gem "alembic-jekyll-theme", "~> 4.1.0"
+#gem "alembic-jekyll-theme", "~> 4.1.0"
+
 
 #gem "minimal-mistakes-jekyll"
