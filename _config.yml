@@ -16,7 +16,7 @@ logo: "/assets/logos/logo_Sari.png"
 baseurl: ''
 url: ''
 instagram_username: sari
-remote_theme: daviddarnes/alembic@main
+theme: alembic-jekyll-theme
 plugins:
 - jekyll-feed
-
+- alembic-jekyll-theme
