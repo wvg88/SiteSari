@@ -1,5 +1,5 @@
 ---
-title: VoorbeeldPost
+title: voorbeeld van een post
 date: 2023-05-27 15:19:00 Z
 categories:
 - blogpost
