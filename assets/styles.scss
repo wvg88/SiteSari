@@ -4,12 +4,32 @@ styles: true
 ---
 
 @import "alembic";
+/*
+$linkColour: #bf8a05;
+   
+a, input{
+        color:$linkColour;
+    }
+
+    input .button{
+        background: $linkColour !important;
+    }
+  */  
+
+.typeset p a{
+    
+    background-image: none;
+    &:hover{
+        background-image: none;
+    }
+}
 
 .container{
     width:95%;
     max-width: 100%;
 
 }
+
 .header{
     font-family: 'Delmon Delicate', sans-serif;
     src: url('/assets/Delmon Delicate.tff');
@@ -17,3 +37,6 @@ styles: true
     letter-spacing: 0.01rem;
 }
 
+.footer{
+    background:none;
+}
