@@ -4,7 +4,7 @@ permalink: "/massari/"
 layout: page
 ---
 
-![IMG_1121-2(groot).jpg](/uploads/IMG_1121-2(groot).jpg)
+![IMG_1122.jpeg](/uploads/IMG_1122.jpeg)
 
 #### aroma therapie
-![IMG_1036(groot).jpg](/uploads/IMG_1036(groot).jpg)
+![IMG_1016.jpeg](/uploads/IMG_1016.jpeg)
