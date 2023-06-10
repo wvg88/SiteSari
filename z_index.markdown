@@ -1,6 +1,6 @@
 ---
-layout: page
 permalink: "/"
+layout: page
 ---
 
 <style>
