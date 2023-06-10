@@ -15,8 +15,8 @@ description: Write an awesome description for your new site here. You can edit t
 logo: "/assets/logos/logo_Sari.png"
 baseurl: ''
 url: ''
-instagram_username: sari
-remote_theme: daviddarnes/alembic@main
+instagram_username: commesicommesari
+theme: alembic-jekyll-theme
 plugins:
 - jekyll-feed
 
