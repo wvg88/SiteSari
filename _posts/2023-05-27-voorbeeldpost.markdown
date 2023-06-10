@@ -19,8 +19,6 @@ Dit is een voorbeeld van een quote hoe die er nu uitziet:
 > “You are not a drop in the ocean. You are the entire ocean, in a drop.”
 *Rumi*
 
-> “We ought not to be embarrassed of appreciating the truth and of obtaining it wherever it comes from, even if it comes from races distant and nations different from us. Nothing should be dearer to the seeker of truth than the truth itself, and there is no deterioration of the truth, nor belittling either of one who speaks it or conveys it.”
-*Al-kindi*
 
 Dit is een voorbeeld van een link:
 [link naar NWE Vorst](https://denieuwevorst.nl/programma/)
