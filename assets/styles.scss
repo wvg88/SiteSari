@@ -2,18 +2,7 @@
 title: 'false'
 styles: true
 ---
-
-/*
-$linkColour: #bf8a05;
-   
-a, input{
-        color:$linkColour;
-    }
-
-    input .button{
-        background: $linkColour !important;
-    }
-  */  
+@import "alembic";
 
 .typeset p a{
     
@@ -39,4 +28,4 @@ a, input{
 .footer{
     background:none;
 }
-@import "alembic";
+
