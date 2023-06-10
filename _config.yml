@@ -16,6 +16,6 @@ logo: "/assets/logos/logo_Sari.png"
 baseurl: ''
 url: ''
 instagram_username: commesicommesari
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-feed
