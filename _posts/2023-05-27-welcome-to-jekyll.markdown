@@ -4,7 +4,7 @@ date: 2023-05-27 15:19:00 Z
 categories:
 - blogpost
 - voorbeeld
-feature_image: "/uploads/IMG_0938.jpeg"
+feature_image: "/uploads/IMG_0985.jpeg"
 layout: post
 ---
 
