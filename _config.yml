@@ -17,6 +17,9 @@ baseurl: ''
 url: ''
 instagram_username: commesicommesari
 remote_theme: daviddarnes/alembic@main
+fonts:
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
