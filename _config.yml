@@ -16,10 +16,10 @@ logo: "/assets/logos/logo_Sari.png"
 baseurl: ''
 url: ''
 instagram_username: commesicommesari
-remote_theme: daviddarnes/alembic@main
-fonts:
+theme: alembic-jekyll-theme
+fonts: 
   font_urls:
-  - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+  - https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap
 plugins:
 - jekyll-feed
-- jekyll-remote-theme
+
