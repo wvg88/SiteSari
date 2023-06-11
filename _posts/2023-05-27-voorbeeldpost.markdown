@@ -17,7 +17,7 @@ Dit is een voorbeeld van hoe je dat doet:
 
 Dit is een voorbeeld van een quote hoe die er nu uitziet:
 > “You are not a drop in the ocean. You are the entire ocean, in a drop.”
-*Rumi*
+Rumi
 
 
 Dit is een voorbeeld van een link:
