@@ -4,12 +4,7 @@ permalink: "/massari/"
 layout: page
 ---
 
-![IMG_1122.jpeg](/uploads/IMG_1122.jpeg)
-
-### aroma therapie
-![IMG_1016.jpeg](/uploads/IMG_1016.jpeg)
-
-## Massari
+### Massari
  
 Begonnen als een woordgrap en intussen een veelgebruikte term: de Massari. Het is een massage die ik geheel afstem op jou.  
 Daarbij gebruik ik technieken en handgrepen van verschillende opleidingen en cursussen die ik heb gevolgd. Denk aan intuitieve energetische massage, sportmassage, lomi lomi, TuiNa, reiki, cupping, zwangerschapsmassage en aromatherapie. 
@@ -22,6 +17,13 @@ Houd 75 minuten in je agenda vrij. Meestal vraagt een massage 60 minuten, daarna
 Tarief 1 uurs-massage:
 Tussen de €55,- en €75,-. 
 Je mag zelf een bedrag kiezen. Als er sprake is van een bijzondere situatie (denk aan bijstand / student / …) waardoor geld in de weg staat, neem dan contact met me op zodat we de mogelijkheden kunnen bespreken. 
+
+
+![IMG_1122.jpeg](/uploads/IMG_1122.jpeg)
+
+### aromatherapie
+![IMG_1016.jpeg](/uploads/IMG_1016.jpeg)
+
 
 
 
